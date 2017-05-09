@@ -5,7 +5,7 @@
 	<title>Home</title>
 	<style>
 		body{
-			background-color: red;
+			color: red;
 		}		
 	</style>
 </head>
